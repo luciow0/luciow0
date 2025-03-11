@@ -2,7 +2,7 @@
 - 👀 I’m interested in linux and Desk Apps
 - 🌱 I’m currently learning Python 🐍 and Java ☕
 - 💞️ I’m looking to collaborate on an opensource project
-- 📫 How to reach me: send me a email to lclaa@uade.edu.ar
+- 📫 How to reach me: send me a email to lucioclaa@gmail.com
 - 😄 Pronouns: he
 
 <!---
