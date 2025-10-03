@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @luciow0
-- 👀 I’m interested in linux and Desk Apps
+- 👀 I’m interested in graphs teory and graphs DB
 - 🌱 I’m currently learning Python 🐍 and Java ☕
 - 💞️ I’m looking to collaborate on an opensource project
-- 📫 How to reach me: send me a email to lucioclaa@gmail.com
+- 📫 How to reach me: send me a email to lucioclaa0@gmail.com
 - 😄 Pronouns: he
 
 <!---
